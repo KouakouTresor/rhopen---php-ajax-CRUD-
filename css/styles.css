@@ -1,0 +1,96 @@
+
+form label {
+    font-weight: bold;
+    
+}
+
+
+h1, h2{
+    font-family: 'Playfair Display', serif;
+} 
+
+.admin{
+    font-family: 'Playfair Display', serif;
+    font-size: 1em;
+
+}
+ 
+
+
+/* .table-responsive > thead {
+    background-color:rgb(240, 231, 231)
+} 
+  */
+
+
+.img-fluid{
+    widows: 40px;    height:30px
+     
+}
+
+.btn-color{
+    background-color: #4777A2;
+    color:white
+    
+} 
+
+.bg-blue {
+    background-color: #4777A2;
+    color:white
+
+}
+
+/* .btn-color:hover{ 
+    background-color: #6792b8;
+    color:white
+} */
+
+
+.badge-red{
+    background-color: rgb(236, 17, 17);
+    color: white;
+}
+
+.link {   
+ display: inline-block
+}
+
+
+.badge{
+     width:72px ;    
+}
+
+.badge-light{
+    background-color: rgb(243, 234, 234)fff;
+    border-radius: 4px/4px;
+}
+
+
+
+/* table */
+
+ .dt-button.grey {
+    background-color: rgb(236, 232, 232);
+}
+
+.dt-button.blue {
+    background-color: #507da5;
+    
+}
+
+.dt-button.blue:hover {
+    background-color: #25659e;
+    
+}
+
+.sizeBtnRed{
+    margin-left:1em;
+    width:200px;
+    background-color:rgb(220, 68, 68);
+}
+
+.sizeBtn{
+    margin-left:1em;
+    width:200px
+}
+
